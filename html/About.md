@@ -1,6 +1,6 @@
 ﻿<html>
 <head>
-    <title>TrueNorth Licences</title>
+    <title>Offline Wiki</title>
     <style type="text/css">
         pre {
             white-space: pre-wrap; /* css-3 */
@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h2>About TrueNorth</h2>
-    <p>This is a page about TrueNorth Geospatial</p>
+    <h2>About Offline Wiki</h2>
+    <p>This is a page about Offline Wiki</p>
 </body>
 </html>
